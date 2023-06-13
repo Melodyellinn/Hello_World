@@ -1,3 +1,3 @@
-Fichier test
+# Fichier test
 
-Ceci est un fichier de descritpion.
+## Ceci est un fichier de descritpion.
