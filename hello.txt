@@ -1,2 +1,5 @@
+Hola mundo
 Hello world
 Bonjour tout le monde
+Hallo welt
+Salom Dunyo
